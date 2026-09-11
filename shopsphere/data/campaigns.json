@@ -1,0 +1,12 @@
+[
+  {
+    "campaign_id": 1,
+    "campaign_name": "Independence Sale",
+    "discount": 0.15
+  },
+  {
+    "campaign_id": 2,
+    "campaign_name": "Monsoon Sale",
+    "discount": 0.10
+  }
+]
